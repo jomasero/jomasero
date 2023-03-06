@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Johan.
 - 👀 I’m interested in computing linguistics, effective knowledge recovery, VR/AR, music, literary writing and gamification.
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning and reviewing Machine Learning techniques for my current projects.
 - 💞️ I’m looking to collaborate on literary writing and music related projects.
-- 📫 How to reach me: (coming soon...).
+- 📫 How to reach me: visit https://meaningfulgadgets.com/jmsr for my tech portfolio and contact information.
 - 🈁 También hablo español (I speak Spanish too).
 
 <!---
